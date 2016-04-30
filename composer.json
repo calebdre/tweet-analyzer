@@ -15,6 +15,6 @@
         "mikecao/flight": "^1.2"
     },
     "autoload": {
-      "psr-4": {"TweetAnalyzer\\": "./"}
+      "psr-4": {"TweetAnalyzer\\": "app/"}
     }
 }
